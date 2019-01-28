@@ -1,2 +1,2 @@
 <?php
-echo "Hello LINE BOT";
+echo "สวัสดีครับ นี้เป็น Line Bot Mr.CIC";
